@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Firebase ESP32 Client
+WiFiEsp
+Firebase
+HttpClient
+WiFi
+ESP32_HTTPS_Server
+Improv WiFi Library
+Adafruit GFX Library
